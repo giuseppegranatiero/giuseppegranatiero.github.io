@@ -6,11 +6,6 @@ email:
   icon  : fas fa-envelope
   color : db4437
 
-facebook:
-  url   : https://www.facebook.com/
-  icon  : fab fa-facebook
-  color : 3b5998
-
 github:
   url   : https://www.github.com/giuseppegranatiero
   icon  : fab fa-github
@@ -27,6 +22,6 @@ kaggle:
   color : 20beff
 
 linkedin:
-  url   : https://www.linkedin.com/in/
+  url   : https://www.linkedin.com/in/giuseppe-pio-granatiero-14103317b
   icon  : fab fa-linkedin-in
   color : 007bb5
