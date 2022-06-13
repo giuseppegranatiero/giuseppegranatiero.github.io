@@ -3,7 +3,7 @@
   color: danger
 
 - name: C/C++
-  percentage: 100
+  percentage: 99
   color:
 
 - name: Python
