@@ -2,12 +2,12 @@
 # Get Colors from : https://brandcolors.net/
 
 email:
-  url   : "mailto:granpep04@gmail.com"
+  url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
 
 github:
-  url   : https://www.github.com/giuseppegranatiero
+  url   : https://www.github.com/
   icon  : fab fa-github
   color : 333333
 
@@ -22,6 +22,6 @@ kaggle:
   color : 20beff
 
 linkedin:
-  url   : https://www.linkedin.com/in/giuseppe-pio-granatiero-14103317b
+  url   : https://www.linkedin.com/in/
   icon  : fab fa-linkedin-in
   color : 007bb5
