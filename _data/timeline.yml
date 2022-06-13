@@ -1,17 +1,9 @@
 - title: Student, Liceo Scientifico Scienze Applicate 'Galilei-Moro'
   from: 2018
-  to: 2023
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Main Studies: Mathematics, Physics, Computer Science, Science, Philosophy. Extracurricular Actvities: Informatics Italian Olympiads - Individual, Informatics Italian Olympiads - Teams, Mathematical Italian Olympiads - Individual, Mathematical Italian Olympiads - Teams, CyberSecurity Italian Olympiads - Individual, Mathematical Kangaroo, Maths Challange (UniFg) 
+
+# - title: Software Engineer, Google, UK
+#  from: 2023
+#  to: present
+#  description: 
