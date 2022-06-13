@@ -25,11 +25,10 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Giuseppe Pio Granatiero
   image             : giuseppe.jpg
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : granpep04@gmail.com
+  github            : giuseppegranatiero
   kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : giuseppe-pio-granatiero-14103317b
 
 
 ### Posts ###
@@ -58,8 +57,8 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
-  enabled: false
-  username: your_username
+  enabled: true
+  username: g.granatiero
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
