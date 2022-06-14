@@ -8,7 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Detailed-oriented, hard-working and ambitious student, with a get-it-done, on-time and high-quality project spirit.<br>
+
+I’m passionate about Computer Science, Mathematics and Philosophy. I do really enjoy making projects in my free time, since they’re a great source to learn quickly and having fun.<br>
+
+Involved in several extracurricular activities including: Mathematics Olympiads, Informatics Olympiads and Cyber Security Olympiads just to name a few.<br>
+
+An highly active member in Competitive Programming competitions.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
