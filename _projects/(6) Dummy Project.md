@@ -1,7 +1,7 @@
 ---
-name: Dummy Project
-tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: CP - Competitive Programming
+tools: [C, C++]
+image: ![image](https://user-images.githubusercontent.com/66794060/174126667-d9498f54-5d36-4f26-8592-0c07b815c463.png)
+description: Here is a collection of training problems that I solved during my CP journey.
+external_url: https://github.com/giuseppegranatiero/CP-competitive-programming-training
 ---
