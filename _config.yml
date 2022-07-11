@@ -7,20 +7,14 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : giuseppegranatiero/giuseppegranatiero.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-
-
 ### Plugins ###
 plugins:
   - jemoji
-
-
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-
-
 ### Author Info ###
 author:
   name              : Giuseppe Pio Granatiero
@@ -41,19 +35,14 @@ collections:
     output: true
     permalink: /projects/:name
   
-
 ### Disqus ###
 disqus:
   shortname: your-short-name-disqus                     # Your website Shortname on disqus
-
-
 ### Analytics ###
 analytics:
   enabled: false                                        # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
-
-
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
@@ -62,8 +51,6 @@ buymeacoffee:
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
-
-
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -72,12 +59,10 @@ defaults:
     values:
       layout: "page"
   - scope:
-        path: ""
-        type: "posts"
-      values:
-        comments: false                            # Set to true to enable disqus comments
-
-
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
 ### Exclude from processing ###
 exclude:
   - README.md
